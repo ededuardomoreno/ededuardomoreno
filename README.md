@@ -24,10 +24,10 @@ I care about research-driven decisions, systems that scale, and products that do
 
 Before going full founder mode, I spent years building at places where the stakes were real:
 
-- **Princeton University** — HCI Lab researcher. Human-computer interaction, accessibility, design systems.
-- **U.S. Department of Defense** — Product & UX work for high-stakes internal tools. Shipped with real constraints.
+- **Princeton University** — Product Strategy & UX Consultant. HCI Lab, design systems, accessibility.
+- **U.S. Department of Defense** — Product Strategy & UX Consultant. High-stakes internal tools, real constraints.
 - **BookedBy** — PM on a SaaS booking platform. Owned roadmap, worked closely with engineering and design.
-- **Veikul LLC** — Co-founder. Built a mobility product in Mexico from zero.
+- **Veikul LLC** — Founding Product Manager & UX Lead. Built a mobility product in Mexico from zero.
 
 ---
 
@@ -45,4 +45,4 @@ I'm open to remote PM roles, advisory conversations, and building things with pe
 
 - 💼 [linkedin.com/in/ededuardomoreno](https://linkedin.com/in/ededuardomoreno)
 - 🌐 [eduardo.cv](https://eduardo.cv)
-- 📬 edgar [at] neosystems [dot] group
+- 📬 [hi@eduardo.cv](mailto:hi@eduardo.cv)
