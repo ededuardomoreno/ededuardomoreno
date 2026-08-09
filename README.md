@@ -3,7 +3,7 @@
 
 ![Remote-first](https://img.shields.io/badge/🌎_Remote--first-gray?style=flat-square) ![Austin, Texas](https://img.shields.io/badge/📍_Texas_(Austin)-gray?style=flat-square) ![Open to roles](https://img.shields.io/badge/🏛️_Open_to_opportunities-gray?style=flat-square)
 
-I am a remote Digital Product Manager. I work across startups, government tech, and academic research to define product strategy and manage digital product roadmaps.
+I am a remote Digital Product Manager. I work across startups, government tech, and academic research to define digital product strategy and manage intersecting HCI roadmaps.
 
 ---
 
