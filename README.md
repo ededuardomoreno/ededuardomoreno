@@ -1,11 +1,9 @@
 # Edgar Eduardo Moreno 👋
-**Product Manager · HCI Researcher · Founder**
+**Digital Product Manager · Founder**
 
-![Remote-first](https://img.shields.io/badge/🌎_Remote--first-gray?style=flat-square) ![Texas](https://img.shields.io/badge/📍_Texas_(Austin_·_SA_·_DFW)-gray?style=flat-square) ![Open to roles](https://img.shields.io/badge/🏛️_Open_to_opportunities-gray?style=flat-square)
+![Remote-first](https://img.shields.io/badge/🌎_Remote--first-gray?style=flat-square) ![Austin, Texas](https://img.shields.io/badge/📍_Texas_(Austin)-gray?style=flat-square) ![Open to roles](https://img.shields.io/badge/🏛️_Open_to_opportunities-gray?style=flat-square)
 
-I build products at the intersection of AI, design systems, and real human problems. My background spans enterprise SaaS, civic tech, government, and academia — which basically means I've shipped things in every environment where shipping things is hard.
-
-I care about research-driven decisions, systems that scale, and products that don't make people feel dumb.
+I am a remote Digital Product Manager. I work across startups, government tech, and academic research to define product strategy and manage engineering roadmaps.
 
 ---
 
@@ -13,36 +11,32 @@ I care about research-driven decisions, systems that scale, and products that do
 
 | Project | Type | What it is |
 |---|---|---|
-| **AirKey** | AI · SaaS | AI-powered hotel management platform. Rethinking how independent properties run operations. |
-| **AirBook** | SaaS · Booking | Professional booking infrastructure for service businesses. Clean, fast, no bloat. |
-| **311World** | Civic Tech · Open Source | Nonprofit making city services more accessible. Started in San Antonio, built to scale. |
-| **NeoSystems Group** | Parent entity | The umbrella holding all of it together. Strategy, product, design — in-house. |
+| **Estancia** | Agentic AI / B2B SaaS | Building an AI-agent operations platform using Model Context Protocol (MCP). Originally built for LATAM independent hotels, it is expanding to support operators managing multi-family (MFR), single-family (SFR), and commercial suites across any lease timeframe. Currently testing AI copilot features in internal beta. |
 
 ---
 
-## Background
+## Past Experience
 
-Before going full founder mode, I spent years building at places where the stakes were real:
-
-- **Princeton University** — Product Strategy & UX Consultant. HCI Lab, design systems, accessibility.
-- **U.S. Department of Defense** — Product Strategy & UX Consultant. High-stakes internal tools, real constraints.
-- **BookedBy** — PM on a SaaS booking platform. Owned roadmap, worked closely with engineering and design.
-- **Veikul LLC** — Founding Product Manager & UX Lead. Built a mobility product in Mexico from zero.
+* **BookedBy** — Led product strategy for a multi-product rollout and managed a global engineering pod.
+* **U.S. Department of Defense (SORN)** — Product Lead for a compliance web application. Turned regulatory workflows into a Section 508 compliant digital tool.
+* **Princeton University HCI** — Built an open-source component library with 160+ components and contributed to HCI research.
+* **Veikul, LLC** — Founding Product Manager for an iOS consumer app. Managed the product roadmap through a $3M MXN Series A funding round.
+* **Irys Technologies** — Managed product strategy for four gov-tech applications for clients including the US Air Force and the City of San Antonio.
 
 ---
 
 ## How I work
 
-`Product strategy` `Roadmapping` `User research` `UX / HCI` `Design systems` `Accessibility` `AI product` `SaaS` `Civic tech` `Cross-functional leadership` `Figma` `Agile / Scrum` `Spanish / English`
+`Product Strategy` `Agile / Scrum (CSPO)` `Agentic AI & MCP` `Design Systems` `SaaS` `Prop-Tech` `Gov-Tech` `0-to-1 Scale` `English / Spanish`
 
-I'm not a developer, but I know how things get built. I can wireframe in the morning, write a PRD by noon, and have a research synthesis ready by EOD. I work best in fast, scrappy environments with good people.
+I validate ideas through user research, prioritize features, and write clear user stories to keep engineering sprints on track and predictable.
 
 ---
 
 ## Let's connect
 
-I'm open to remote PM roles, advisory conversations, and building things with people who give a damn.
+I'm actively looking for remote Product Management opportunities.
 
-- 💼 [linkedin.com/in/ededuardomoreno](https://linkedin.com/in/ededuardomoreno)
-- 🌐 [eduardo.cv](https://eduardo.cv)
-- 📬 [hi@eduardo.cv](mailto:hi@eduardo.cv)
+* 💼 [linkedin.com/in/edgareduardomoreno](https://linkedin.com/in/edgareduardomoreno)
+* 🌐 [eduardo.cv](https://eduardo.cv)
+* 📬 [hi@eduardo.cv](mailto:hi@eduardo.cv)
